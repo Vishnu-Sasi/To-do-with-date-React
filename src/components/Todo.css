@@ -1,0 +1,68 @@
+button:hover{
+    background-color: green;
+}
+
+.btn{
+    display: block;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+   margin-left: 600px;
+   margin-top: 50px;
+}
+.Date{
+    margin-left: 500px;
+    margin-top: 30px;
+    display: block;
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+}
+.taskName{
+    width: 350px;
+    height: 35px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+.taskDesc{
+    width:350px;
+    height: 35px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.title{
+    text-align: center;
+}
+.main{
+    background-color: rgba(32, 178, 171, 0.279);
+    width: 100vw;
+    height: 100rem;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.list{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    margin-left: 525px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.delete{
+    background-color: red;
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+}
+.check{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+}
+.label{
+    color: green;
+}
